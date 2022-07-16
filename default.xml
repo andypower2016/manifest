@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/andypower2016" name="origin" />
-  <default remote="origin" sync-j="4" revision="master" />
+  <default remote="origin" sync-j="4" revision="Java-game" />
   
   <project name="simple-makefile" path="simple-makefile" />
   <project name="SystemC" path="SystemC" />
