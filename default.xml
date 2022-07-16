@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/andypower2016" name="my_origin" />
-
+  <default remote="origin" revision="Java-game" />
+  
+  <project name="Math-Parser" path="Math-Parser" />
   <project remote="my_origin" revision="Java-game" name="simple-makefile" path="simple-makefile" />
   <project remote="my_origin" revision="Java-game" name="SystemC" path="SystemC" />
 </manifest>
