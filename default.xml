@@ -3,7 +3,7 @@
   <remote fetch="https://github.com/andypower2016" name="my_origin" />
   
   
-  <project remote="my_origin" revision="Java-game" name="Math-Parser" path="Math-Parser" />
+  
   <project remote="my_origin" revision="Java-game" name="simple-makefile" path="simple-makefile" />
   <project remote="my_origin" revision="Java-game" name="SystemC" path="SystemC" />
 </manifest>
