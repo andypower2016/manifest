@@ -28,7 +28,7 @@ my $string = "/* Test program */ \n
 
 my $rmComment = $string;
 $rmComment =~ s/((?:\/\*(?:[^*]|(?:\*+[^*\/]))*\*+\/)|(?:\/\/.*))//g;
-
+$rmComment = $rmComment . "last\n";
 printf("%s",$rmComment);
 
 exit 0;
