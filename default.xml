@@ -5,4 +5,5 @@
   <project remote="andypower.prj" revision="Java-game" name="mini-server" path="mini-server" />
   <project remote="andypower.prj" revision="Java-game" name="Simple-UT" path="Simple-UT" />
   <project remote="andypower.prj" revision="Java-game" name="simple-makefile" path="simple-makefile" />
+  <project remote="andypower.prj" revision="master" name="Python" path="Python" />
 </manifest>
